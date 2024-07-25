@@ -2,7 +2,6 @@
 headless = true
 +++
 
-- [Book Example]({{< relref "/docs/" >}})
-  - [Page One]({{< relref "/docs/page-one" >}})
-  - [Page Two]({{< relref "/docs/page-two" >}})
-- [Blog]({{< relref "/posts" >}})
+- [Java 基础]({{< relref "/docs/java_learn_plan" >}})
+  - [Java 工程师需要掌握的技能]({{< relref "/docs/java_learn_plan" >}})
+  <!-- - [Page Two]({{< relref "/docs/my-second-post.md" >}}) -->
